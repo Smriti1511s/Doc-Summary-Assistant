@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Smriti1511s/Document-Summary-Assistant/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Smriti1511s/Document-Summary-Assistant?style=social">
+  <a href="https://github.com/Smriti1511s/Doc-Summary-Assistant/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Smriti1511s/Doc-Summary-Assistant?style=social">
   </a>
-  <a href="https://github.com/Smriti1511s/Document-Summary-Assistant/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/Smriti1511s/Document-Summary-Assistant">
+  <a href="https://github.com/Smriti1511s/Doc-Summary-Assistant/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/Smriti1511s/Doc-Summary-Assistant">
   </a>
-  <a href="https://github.com/Smriti1511s/Document-Summary-Assistant/blob/main/LICENSE">
+  <a href="https://github.com/Smriti1511s/Doc-Summary-Assistant/blob/main/LICENSE">
     <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-green.svg">
   </a>
 </p>
