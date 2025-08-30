@@ -45,8 +45,8 @@
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/Smriti1511s/Document-Summary-Assistant.git
-   cd Document-Summary-Assistant
+   git clone https://github.com/Smriti1511s/Doc-Summary-Assistant.git
+   cd Doc-Summary-Assistant
    ```
 
 2. **Install dependencies:**
